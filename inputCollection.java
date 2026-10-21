@@ -15,7 +15,7 @@ public class inputCollection {
     }
     public static void main(String[] args){
         inputCollection scanned = new inputCollection();
-        inputCollection.inputCol();
+        System.out.println(inputCollection.inputCol());
         
     }
 }
