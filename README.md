@@ -1,5 +1,12 @@
 # CSA_Mathlib
 
+Roles:
+Amy- Team Lead
+Anaika- Secretary (todo/comments/monitor)
+Sneha- File 1 (InputCollection)
+Aditi- File 1 (InputCollection)
+Surya- File 3 
+
 Daily Progress:
 
 10/19: 
@@ -23,3 +30,4 @@ Daily Progress:
 4) Commit all function files to repo/forked repo
 5) Update upcoming to-do list
 6) Check with group members regarding time management for tasks
+
