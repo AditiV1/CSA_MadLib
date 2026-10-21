@@ -7,7 +7,6 @@ Project Description
 ### Todo
 
 - [ ] Surya: Write method (storyGen)
-- [ ] Anaika: comments  
 
 ### In Progress
 
@@ -19,6 +18,7 @@ Project Description
 
 ### Done ✓
 
+- [x] Anaika: comments for storyGeneration.java
 - [x] Aditi + Sneha: Initialze 3 variables  
 - [x] Surya: making class  
 - [x] Surya: added parameters into string  
