@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class inputCollection {
-    public String inputCol(){
+    public String[] inputCol(){
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter an adjective: ");
@@ -10,12 +10,11 @@ public class inputCollection {
         System.out.print("Enter a noun: ");
         String noun = sc.nextLine();
 
-        return adjective;
-        return noun;
+        return new String[]{adjective, noun};
     }
     public static void main(String[] args){
         inputCollection scanned = new inputCollection();
-        System.out.println(inputCollection.inputCol());
+        System.out.println(scanned.inputCol());
         
     }
 }
