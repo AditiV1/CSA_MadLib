@@ -36,3 +36,14 @@ Daily Progress:
 5) Update upcoming to-do list
 6) Check with group members regarding time management for tasks
 
+
+
+
+Obstacles: 
+
+1) Sneha + Aditi worked on the same function; when combining, they codes weren't merged on gitbhub
+   - We checked the indexes and realized that there was a formatting error between spaces in the index
+   - Combined this function on Aditi's code and pulled into repo
+2) TODO list was not responding to sync when trying to add new tasks
+   - Had to manually create new bullet points and format tasks
+
