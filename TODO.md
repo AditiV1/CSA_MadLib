@@ -5,7 +5,8 @@ Project Description
 <em>[TODO.md spec & Kanban Board](https://bit.ly/3fCwKfM)</em>
 
 ### Todo
- 
+
+- [ ] Surya: Write method (storyGen)
 - [ ] Anaika: comments  
 
 ### In Progress
@@ -14,6 +15,7 @@ Project Description
 - [ ] All team mmebers: commit changed on git hub (10/21)  
 - [ ] Anaika: work on 10/21 read me/progress checkup  
 - [ ] Surya: Generated story function  
+- [ ] Sneha: Write method (inputCol)
 
 ### Done ✓
 
