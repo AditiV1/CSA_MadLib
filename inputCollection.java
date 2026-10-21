@@ -9,8 +9,13 @@ public class inputCollection {
 
         System.out.print("Enter a noun: ");
         String noun = sc.nextLine();
-        
+
         return adjective;
         return noun;
     }
-
+    public static void main(String[] args){
+        inputCollection scanned = new inputCollection();
+        inputCollection.inputCol();
+        
+    }
+}
