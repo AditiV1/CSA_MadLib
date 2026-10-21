@@ -15,4 +15,11 @@ Daily Progress:
 3) Divided work
 4) Starting with basic variables and input/output
 5) Initialized the variables
-6) 
+
+10/21:
+1) Update tasks on to do list
+2) Commit all changes to forked repo
+3) Take all files and update into repo
+4) Commit all function files to repo/forked repo
+5) Update upcoming to-do list
+6) Check with group members regarding time management for tasks
