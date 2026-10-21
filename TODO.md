@@ -6,25 +6,28 @@ Project Description
 
 ### Todo
 
-- [ ] Sorya:  
-- [ ] Sorya: added parameters into string  
-- [ ] Sorya: initiazled varables  
-- [ ] Aditi: initialzed 2 variables  
-- [ ] Sneha: Initialized first two scanner inputs  
-- [ ] Sneha: made main class  
+- [ ] Surya:  
 - [ ] Anaika: comments  
 
 ### In Progress
 
-- [ ] Sorya: Generated story function  
-- [ ] Aditi + Sneha: Initialze 3 variables  
-- [ ] Sorya: making class  
+- [ ] Amy: pull request of all changed on each fork to repo  
+- [ ] All team mmebers: commit changed on git hub (10/21)  
+- [ ] Anaika: work on 10/21 read me/progress checkup  
+- [ ] Surya: Generated story function  
 
 ### Done ✓
 
+- [x] Aditi + Sneha: Initialze 3 variables  
+- [x] Surya: making class  
+- [x] Surya: added parameters into string  
+- [x] Surya: initiazled varables  
+- [x] Sneha: made main class  
+- [x] Sneha: Initialized first two scanner inputs  
+- [x] Aditi: initialzed 2 variables  
 - [x] Sneha: initialzed 2 variables  
 - [x] Sneha: inported scanner  
-- [x] Anaika: organize todo list  
+- [x] Anaika+Amy: organize todo list  
 - [x] Anaika: download todo.md extension  
 - [x] Anaika: Read me 10/20  
 - [x] Anaika: Start read me for 10/19  
