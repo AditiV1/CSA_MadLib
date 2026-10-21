@@ -1,8 +1,4 @@
-import java.util.Scanner;
 
-public class inputCollection {
-    public static void main(String[] args){
-      Scanner sc = new Scanner(System.in);
 
       String adjective =  "_________(Adjective) ";
       String noun = "_______(Noun) ";
@@ -32,6 +28,3 @@ public class inputCollection {
 
       System.out.print("Enter a place:");
       place = sc.nextLine();
-    }
-    
-}
