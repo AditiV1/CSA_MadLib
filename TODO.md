@@ -6,20 +6,24 @@ Project Description
 
 ### Todo
 
-- [ ] askjas: sdkfsdf
 
 
 
 ### In Progress
 
-- [ ] Amy: pull request of all changed on each fork to repo  
-- [ ] All team mmebers: commit changed on git hub (10/21)  
-- [ ] Anaika: work on 10/21 read me/progress checkup  
-- [ ] Surya: Generated story function  
-- [ ] Sneha: Write method (inputCol)
+
 
 ### Done ✓
 
+- [x] Anaika: commit all changes for comments
+- [x] Sneha: finish runner file
+- [x] Anaika: comments for inputCollection.java
+- [x] Anaika: comments for runner.java
+- [x] Amy: pull request of all changed on each fork to repo  
+- [x] All team mmebers: commit changed on git hub (10/21)  
+- [x] Anaika: work on 10/21 read me/progress checkup  
+- [x] Surya: Generated story function  
+- [x] Sneha: Write method (inputCol)
 - [x] Surya: Write method (storyGen)
 - [x] Anaika: comments for storyGeneration.java
 - [x] Aditi + Sneha: Initialze 3 variables  
