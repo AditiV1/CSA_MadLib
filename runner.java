@@ -12,7 +12,9 @@ public class runner{
         String pastVerb = storageList[5];
         String place = storageList[6];
 
-        System.out.println(adjective + noun + exclamation + ingVerb + pluralNoun + pastVerb +place);
+        storyGeneration print = new storyGeneration(adjective, noun, exclamation, ingVerb, pluralNoun, pastVerb. place);
+        System.out.println(print);
         
     }
+    
 }
