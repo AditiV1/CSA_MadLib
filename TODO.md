@@ -6,7 +6,9 @@ Project Description
 
 ### Todo
 
-- [ ] Surya: Write method (storyGen)
+- [ ] askjas: sdkfsdf
+
+
 
 ### In Progress
 
@@ -18,6 +20,7 @@ Project Description
 
 ### Done ✓
 
+- [x] Surya: Write method (storyGen)
 - [x] Anaika: comments for storyGeneration.java
 - [x] Aditi + Sneha: Initialze 3 variables  
 - [x] Surya: making class  
