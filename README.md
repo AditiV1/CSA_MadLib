@@ -36,6 +36,13 @@ Daily Progress:
 5) Update upcoming to-do list
 6) Check with group members regarding time management for tasks
 
+10/23:
+1) Update tasks on to do list
+2) Sync all forked repo to current committed repo
+3) Check in with group members regarding tasks
+4) Finish comments with other two files (runner.java and inputCollection.java)
+5) Commmit all changes and sync repo after files are done
+
 
 
 
@@ -45,5 +52,7 @@ Obstacles:
    - We checked the indexes and realized that there was a formatting error between spaces in the index
    - Combined this function on Aditi's code and pulled into repo
 2) TODO list was not responding to sync when trying to add new tasks
-   - Had to manually create new bullet points and format tasks
+   - Had to create new bullet points and format tasks manually
+3) Had issues syncing forked repo
+  - Checked syntax differeneces and changed based on original repo not forked repo
 
