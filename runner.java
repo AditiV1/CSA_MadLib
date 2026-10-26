@@ -12,7 +12,8 @@ public class runner{ // main runner class for the program (all done by sneha)
         String pastVerb = storageList[5];
         String place = storageList[6];
         // create storyGeneration object using collected variables
-        storyGeneration print = new storyGeneration(adjective, noun, exclamation, ingVerb, pluralNoun, pastVerb. place);
+        storyGeneration print = new storyGeneration();
+        String printer = print.storyGen(adjective, noun, exclamation, ingVerb, pluralNoun, pastVerb, place);
         // print final story result
         System.out.println(print);
         
