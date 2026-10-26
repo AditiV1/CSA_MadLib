@@ -6,11 +6,11 @@ Amy (amygao928) - Team Lead
 
 Anaika (anaikadeshpande2) - Secretary (todo/comments/monitor)
 
-Sneha (sneha608) - inputCollection.java file (initializes variables/collects user inputs)
+Sneha (sneha608) - inputCollection.java file (initializes variables/collects user inputs) and runner code (runs the function)
 
 Aditi (AditiV1) - inputCollection.java file (initializes variables/collects user inputs)
 
-Surya (Crentority) - storyGeneration.java file (uses collected inputs to organize into story outputs)
+Surya (Crentority) - storyGeneration.java file (uses collected inputs to organize into story outputs) and runner code (runs the function)
 
 Daily Progress:
 
