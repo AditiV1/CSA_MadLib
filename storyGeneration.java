@@ -1,3 +1,4 @@
+// class for the story
 public class storyGeneration{
     public String storyGen(String adjective, String noun, String exclamation, String ingVerb, String pluralNoun, String pastVerb, String place){
         String finalSentence = ("Today in computer science class, I tried to run my "+ adjective + " new program. Just as I clicked execution, the screen froze because a stray "+ noun + " broke the compiler!\r\n" + //
