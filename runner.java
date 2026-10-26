@@ -1,4 +1,4 @@
-public class runner{ // main runner class for the program (all done by sneha)
+public class runner{ // main runner class for the program (sneha +surya)
   public static void main(String[] args){
         inputCollection scanned = new inputCollection(); // create instance of the input collection class
         // call input method and split returned string into an array
