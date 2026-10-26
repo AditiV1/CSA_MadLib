@@ -16,7 +16,7 @@ Project Description
 ### Done ✓
 
 - [x] Anaika: commit all changes for comments
-- [x] Sneha: finish runner file
+- [x] Sneha + Surya: finish runner file
 - [x] Anaika: comments for inputCollection.java
 - [x] Anaika: comments for runner.java
 - [x] Amy: pull request of all changed on each fork to repo  
