@@ -60,7 +60,7 @@ Obstacles:
 2) TODO list was not responding to sync when trying to add new tasks
    - Had to create new bullet points and format tasks manually
 3) Had issues syncing forked repo
-  - Checked syntax differences and changed based on original repo not forked repo
+   - Checked syntax differences and changed based on original repo not forked repo
 4) Each member had different variable names
    - Changed based on main read me names
 
