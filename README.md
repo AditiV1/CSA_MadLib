@@ -43,6 +43,12 @@ Daily Progress:
 4) Finish comments with other two files (runner.java and inputCollection.java)
 5) Commmit all changes and sync repo after files are done
 
+10/26:
+1) Finalize tasks
+2) Check in with group regarding finishing touches
+3) Download zip
+4) Create demo for sub
+5) Present demo to sub
 
 
 
@@ -50,9 +56,11 @@ Obstacles:
 
 1) Sneha + Aditi worked on the same function; when combining, they codes weren't merged on gitbhub
    - We checked the indexes and realized that there was a formatting error between spaces in the index
-   - Combined this function on Aditi's code and pulled into repo
+   - Combined this fuction on Aditi's code and pulled into repo
 2) TODO list was not responding to sync when trying to add new tasks
    - Had to create new bullet points and format tasks manually
 3) Had issues syncing forked repo
-  - Checked syntax differeneces and changed based on original repo not forked repo
+  - Checked syntax differences and changed based on original repo not forked repo
+4) Each member had different variable names
+   - Changed based on main read me names
 
