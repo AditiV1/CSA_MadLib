@@ -2,15 +2,15 @@
 
 Roles:
 
-Amy - Team Lead
+Amy (amygao928) - Team Lead
 
-Anaika - Secretary (todo/comments/monitor)
+Anaika (anaikadeshpande2) - Secretary (todo/comments/monitor)
 
-Sneha - inputCollection.java file (initializes variables/collects user inputs)
+Sneha (sneha608) - inputCollection.java file (initializes variables/collects user inputs)
 
-Aditi - inputCollection.java file (initializes variables/collects user inputs)
+Aditi (AditiV1) - inputCollection.java file (initializes variables/collects user inputs)
 
-Surya - storyGeneration.java file (uses collected inputs to organize into story outputs)
+Surya (Crentority) - storyGeneration.java file (uses collected inputs to organize into story outputs)
 
 Daily Progress:
 
