@@ -64,3 +64,9 @@ Obstacles:
 4) Each member had different variable names
    - Changed based on main read me names
 
+
+Screenshot:
+<img width="1047" height="290" alt="image (1)" src="https://github.com/user-attachments/assets/6520f9c4-254e-43ad-b53e-2a63ea5e2c68" />
+
+
+
